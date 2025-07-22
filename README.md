@@ -100,11 +100,3 @@ GIIT-api-rest/
 3. Commit tus cambios (`git commit -m 'Agrega NuevaFeature'`)
 4. Push a la rama (`git push origin feature/NuevaFeature`)
 5. Abre un Pull Request
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
-> Para dudas o sugerencias, contacta al equipo GIIT. 
